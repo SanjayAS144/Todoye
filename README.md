@@ -1,5 +1,5 @@
 # Todoey
-![Todoey](/lib/image/to_do_list_icon.png)
+![Todoey](/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 ## Manage your tasks with ease now
 ##### Designed with care for a minimal User Experience
 &nbsp; 
